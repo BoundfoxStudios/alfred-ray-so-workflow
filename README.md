@@ -29,4 +29,4 @@ Feel free to open issues and pull requests.
 
 ## Download
 
-Workflow is downlodable on the [Release page](https://github.com/boundfoxstudios/alfred-ray-so-workflow/releases)
+Workflow is downloadable on the [Release page](https://github.com/boundfoxstudios/alfred-ray-so-workflow/releases)
