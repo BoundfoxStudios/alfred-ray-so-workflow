@@ -12,6 +12,12 @@ The workflow will use the current clipboard as source for the code, transform it
 It uses the standard settings of ray.so.
 Take a look at the global variables in the workflow to change the standard settings, as well as the default language (which currently is `csharp`).
 
+## Usage
+
+* Copy the code you want to beautify
+* Invoke Alfred via "ray" keyword, and optional the language you want to use
+* ray.so will open in your browser, just hit CMD+C to copy the image to your clipboard
+
 ## Transformations
 
 As mentioned above, the workflow will do some transformations of your code before opening ray.so.
