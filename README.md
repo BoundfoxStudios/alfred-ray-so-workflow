@@ -2,6 +2,8 @@
 
 https://ray.so is a little website to create stunning screenshots from code, supporting multiple languages, for example:
 
+![Alfred Prompt](alfred-prompt.png)
+
 ![Example screenshot from ray.so](example.png)
 
 Invoke the workflow with `ray` or `ray <language>` whereas `<language>` is one of ray.so's [supported languages](https://github.com/raycast/script-commands/blob/master/commands/developer-utils/create-image-from-code.sh#L26).
